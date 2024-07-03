@@ -5,8 +5,7 @@ function App() {
 
   return (
     <>
-      <h1>MARCOM USA</h1>
-      <h1>Mohit Sharma</h1>
+      <h1>MARCOM </h1>
     </>
   )
 }
